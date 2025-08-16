@@ -54,5 +54,7 @@ A classe `Principal.java` executa as seguintes operações em sequência, confor
 **Autor:** Marcelo Moura
 
 **Contato:**
-📧 **Email:** mgmoura@gmail.com
-🔗 **LinkedIn:** https://www.linkedin.com/in/marcelogmoura/
+📧 **Email:** mgmoura@gmail.com  
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/marcelogmoura/  
+
