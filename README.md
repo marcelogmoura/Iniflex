@@ -4,8 +4,8 @@ Este é um projeto de demonstração em Java, desenvolvido para atender aos requ
 
 ## 💻 Tecnologias Utilizadas
 
-* **Linguagem:** Java (versão 17 ou superior)
-* **IDE:** Eclipse IDE
+* **Linguagem:** [Java](https://www.java.com/pt-BR/download/ie_manual.jsp) ([versão 17](https://www.oracle.com/java/technologies/downloads/))
+* **IDE:** [Eclipse IDE](https://www.eclipse.org/downloads/)
 * **Gerenciador de Dependências:** Maven (opcional, mas recomendado para a estrutura)
 
 ## 📁 Estrutura do Projeto
@@ -54,7 +54,5 @@ A classe `Principal.java` executa as seguintes operações em sequência, confor
 **Autor:** Marcelo Moura
 
 **Contato:**
-📧 **Email:** mgmoura@gmail.com  
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/marcelogmoura/  
-
+📧 **Email:** mgmoura@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/marcelogmoura/
